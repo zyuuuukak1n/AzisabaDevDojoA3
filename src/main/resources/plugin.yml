@@ -1,0 +1,4 @@
+name: AzisabaDevDojoA3
+version: '${version}'
+main: com.github.zyuuuukak1n.azisabadevdojoa3.AzisabaDevDojoA3
+api-version: 1.18
